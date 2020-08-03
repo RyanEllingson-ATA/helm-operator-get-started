@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: ryanellingson/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-v46swaub
     replicaCount: 1
     hpa:
       enabled: false
