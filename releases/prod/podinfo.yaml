@@ -16,5 +16,5 @@ spec:
   values:
     image:
       repository: ryanellingson/podinfo
-      tag: 0.4.11
+      tag: prod-wgz46pah
     replicaCount: 3
